@@ -67,7 +67,7 @@ img {
    color: green;
    background-color: white;
 }
-#select { 
+.categorywrapper{ 
    height: 1.5rem;
    width: 10rem;
    transform: translateY(35rem);
@@ -81,15 +81,13 @@ img {
     padding: 10px;
     cursor: pointer;
     user-select: none;
-    position: relative;
+    position: absolute;
 }
-
 .select-header {
     background: #f7f7f7;
     padding: 8px;
     border-radius: 4px;
 }
-
 .select-options {
     display: none;
     margin-top: 5px;
@@ -98,25 +96,20 @@ img {
     border: 1px solid #ddd;
     background: #fff;
 }
-
 .categorywrapper.open .select-options {
     display: block;
 }
-
 .category-group {
     padding: 6px;
 }
-
 .category-group .options-group {
     list-style: none;
     padding-left: 15px;
     display: none;
 }
-
 .category-group.expanded .options-group {
     display: block;
 }
-
 .options-group li {
     padding: 4px 0;
     cursor: pointer;
