@@ -76,6 +76,7 @@ img {
    border-radius: -3%;
    user-select: none;
    cursor: pointer;
+   z-index: 1;
 }
 .select-header {
     background: white;
