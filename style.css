@@ -62,7 +62,7 @@ img {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translate(-8rem,36.5rem);
+   transform: translate(-5rem,36.5rem);
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -70,10 +70,10 @@ img {
 .categorywrapper{ 
    height: 1.5rem;
    width: 10rem;
-   transform: translateY(32rem);
+   transform: translate(-5rem,35rem);
    background-color: white;
    color: green;
-   border-radius: -3%;
+   border-radius: -5%;
    user-select: none;
    cursor: pointer;
    z-index: 1;
