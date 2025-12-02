@@ -43,8 +43,8 @@ h {
 h, p {
    position: absolute;
    color: white;
-   transform: translateY(28%);
-   padding: 1em;
+   transform: translateY(27%);
+   padding: 1.1em;
 }
 .report {
    height: 7rem;
