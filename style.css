@@ -19,7 +19,7 @@ body {
 .moveup {
    position: absolute;
    z-index: 1;
-   left: 50%;
+   left: 25%;
 }
 .roboto-font {
   font-family: "Roboto", sans-serif;
@@ -28,4 +28,9 @@ body {
   font-style: oblique;
   font-variation-settings: "wdth" 200;
   color: white;
+}
+h, p {
+   color: white;
+   top: 4%;
+   padding: 10em;
 }
