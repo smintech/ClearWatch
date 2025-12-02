@@ -30,6 +30,7 @@ body {
   font-style: oblique;
   font-variation-settings: "wdth" 700;
   color: white;
+  font-size: 3rem;
 }
 h, p {
    position: absolute;
