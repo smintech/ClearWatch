@@ -18,7 +18,6 @@ body {
 }
 .moveup {
    position: absolute;
-   transform: translate(0);
    z-index: 1;
    left: 50%;
 }
