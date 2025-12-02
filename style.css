@@ -17,11 +17,12 @@
    position: absolute;
    transform: translateY(0);
    z-index: 1;
+   text-align: center;
 }
 .roboto-font {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal;
-  font-variation-settings: "wdth" 150;
+  font-variation-settings: "wdth" 200;
 }
