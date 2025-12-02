@@ -38,6 +38,6 @@ h, p {
 .report {
    height: 7rem;
    width: 15rem;
-   transform: translateY(30%);
+   transform: translateY(50%);
    border-radius: 15%;
 }
