@@ -69,6 +69,7 @@ img {
    z-index: 0;
 }
 .categorywrapper{ 
+   position: absolute;
    height: 1.5rem;
    width: 10rem;
    transform: translate(7rem,34rem);
