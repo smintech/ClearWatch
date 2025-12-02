@@ -70,10 +70,10 @@ img {
 .categorywrapper{ 
    height: 1.5rem;
    width: 10rem;
-   transform: translate(-5rem,35rem);
+   transform: translate(5rem,35rem);
    background-color: white;
    color: green;
-   border-radius: -5%;
+   border-radius: -10%;
    user-select: none;
    cursor: pointer;
    z-index: 1;
