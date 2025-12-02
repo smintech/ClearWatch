@@ -45,8 +45,8 @@ h {
 .roboto-jnr {
    position: absolute;
    color: white;
-   top: 5%;
-   padding: 0.8rem;
+   top: 3%;
+   padding-left: 0.5rem;
 }
 .report {
    height: 7rem;
