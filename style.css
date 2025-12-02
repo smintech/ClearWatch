@@ -71,8 +71,8 @@ img {
 .categorywrapper{ 
    position: absolute;
    height: 1.5rem;
-   width: 10rem;
-   transform: translate(9rem,34rem);
+   width: 15rem;
+   transform: translate(7rem,34rem);
    background-color: white;
    color: green;
    border-radius: -10%;
