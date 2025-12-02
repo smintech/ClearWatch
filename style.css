@@ -52,18 +52,21 @@ img {
    position: absolute;
    top: 5%;
    left:0;
-   width: 95vh;
-   height: 30rem;
+   width: 99vh;
+   height: 28rem;
 }
 .report {
    height: 7rem;
    width: 17rem;
    transform: translateY(40rem);
    border-radius: 10%;
+   color: white;
+   background-color: green;
 }
 #select { 
    height: 3rem;
    width: 10rem;
    transform: translateY(35rem);
+   background-color: green;
    color: white;
 }
