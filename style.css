@@ -72,9 +72,9 @@ img {
    position: absolute;
    height: 1.5rem;
    width: 15rem;
-   transform: translate(8.9rem,42rem);
+   transform: translate(8.9rem,41.5rem);
    background-color: green;
-   color: white;
+   color: green;
    font-weight: 700;
    border-radius: -10%;
    user-select: none;
