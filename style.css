@@ -62,7 +62,7 @@ img {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translate(-10rem,36.5rem);
+   transform: translate(-8rem,36.5rem);
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -70,23 +70,16 @@ img {
 .categorywrapper{ 
    height: 1.5rem;
    width: 10rem;
-   transform: translateY(35rem);
+   transform: translateY(32rem);
    background-color: white;
    color: green;
    border-radius: -3%;
-}
-.categorywrapper {
-    width: 250px;
-    border: 1px solid #ccc;
-    padding: 10px;
-    cursor: pointer;
-    user-select: none;
-    position: absolute;
+   user-select: none;
+   cursor: pointer;
 }
 .select-header {
-    background: #f7f7f7;
+    background: white;
     padding: 8px;
-    border-radius: 4px;
 }
 .select-options {
     display: none;
@@ -94,7 +87,6 @@ img {
     padding-left: 0;
     list-style: none;
     border: 1px solid #ddd;
-    background: #fff;
 }
 .categorywrapper.open .select-options {
     display: block;
