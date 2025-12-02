@@ -30,6 +30,7 @@ body {
   color: white;
 }
 h, p {
+   position: absolute;
    color: white;
    transform: translateY(10%);
    padding: 1em;
