@@ -22,7 +22,6 @@ body, html {
 .moveup {
    position: absolute;
    display: flex;
-   top: -3%;
    z-index: 1;
    left: 55%;
 }
@@ -44,7 +43,7 @@ h {
 h, p {
    position: absolute;
    color: white;
-   top: 10%;
+   top: 20%;
    padding: 1.3rem;
 }
 .report {
