@@ -51,13 +51,12 @@ h {
 }
 img {
    position: absolute;
-   display: inline-block;
+   display: flex;
    top: 6%;
    left:0;
    width: 98vh;
    height: 31rem;
    margin: auto;
-   background-attachment: fixed;
 }
 .report {
    height: 7rem;
