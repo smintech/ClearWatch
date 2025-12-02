@@ -62,7 +62,7 @@ img {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translate(-5rem,36.5rem);
+   transform: translate(-5rem,34rem);
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -72,7 +72,7 @@ img {
    position: absolute;
    height: 1.5rem;
    width: 15rem;
-   transform: translate(9rem,34.5rem);
+   transform: translate(8.9rem,39rem);
    background-color: green;
    color: white;
    color: green;
