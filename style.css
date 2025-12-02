@@ -54,7 +54,7 @@ img {
    display: flex;
    top: 6%;
    left:0;
-   width: 98vh;
+   width: 99vh;
    height: 31rem;
    margin: auto;
    z-index: 0;
@@ -62,7 +62,7 @@ img {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translate(-7rem,36.5rem);
+   transform: translate(-10rem,36.5rem);
    border-radius: -2% 5%;
    color: green;
    background-color: white;
