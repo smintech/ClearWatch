@@ -31,12 +31,12 @@ body, html {
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: oblique;
-  font-variation-settings: "wdth" 700;
+  font-variation-settings: "wdth" 600;
   color: white;
 }
 h {
    position: absolute;
-   font-size: 1.5rem;
+   font-size: 1.3rem;
    top: -3;
 }
 h, p {
