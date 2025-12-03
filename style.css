@@ -114,12 +114,11 @@ img {
 }
 #submitbtn {
     position: absolute;
-    transform: translate(10rem,43rem);
-    font-size: 3rem;
+    transform: translate(11rem,40rem);
+    font-size: 2rem;
     font-weight: 900;
     background-color: white;
     color: green;
-    z-index: 1;
 }
 footer {
     position: absolute;
