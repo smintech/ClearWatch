@@ -114,8 +114,6 @@ img {
 }
 #error {
    display: none;
-   color: black;
-   transform: translateY(40rem);
 }
 #charcount {
    color: black;
