@@ -36,9 +36,9 @@ const charCount = document.getElementById('charcount');
 const errorMsg = document.getElementById('error');
 const submitBtn = document.getElementById('submitbtn');
 
-reportBox.addEventListener('input', function () {
+reportBox.addEventListener('input', function () => {
     const len = reportBox.value.length;
-    charCount.textContent = `${length} / 1000`;
+    charCount.textContent = `${len} / 1000`;
 
     if (len >= 20) {
         errorMsg.style.display = 'none';
