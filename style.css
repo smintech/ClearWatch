@@ -117,7 +117,9 @@ img {
 }
 #charcount {
    color: black;
-   transform: translate(-10rem,39rem);
+   font-weight: bold;
+   font-size: 0.5rem;
+   transform: translate(-8rem,37rem);
 }
 #submitbtn {
     position: absolute;
