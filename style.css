@@ -113,6 +113,7 @@ img {
     font-size: 2rem;
 }
 #submit {
+    position: absolute;
     transform: translate(10rem,43rem);
     font-size: 3rem;
     font-weight: 900;
@@ -120,6 +121,7 @@ img {
     color: green;
 }
 footer {
+    position: absolute;
     transform: translateY(40rem);
     color: white;
 }
