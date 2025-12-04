@@ -49,7 +49,7 @@ reportBox.addEventListener('input', function () {
 submitBtn.addEventListener('click', function () {
     if (reportBox.value.length < 20) {
         errorMsg.style.display = 'none';
-        alert("Enter Atleast 20 Texts");
+        alert("Enter Atleast 20 Characters");
     } else {
         errorMsg.style.display = 'none';
         alert("Report Submitted!");
