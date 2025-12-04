@@ -35,6 +35,7 @@ const reportBox = document.getElementById('report');
 const charCount = document.getElementById('charcount');
 const errorMsg = document.getElementById('error');
 const submitBtn = document.getElementById('submitbtn');
+const file = document.getElementById('fileinput');
 
 reportBox.addEventListener('input', function () {
     const len = reportBox.value.length;
@@ -55,7 +56,9 @@ submitBtn.addEventListener('click', function () {
         alert("Report Submitted!");
         
         reportBox.value = "";
+        file.value == "";
         charCount.textContent = "0 / 1000";
+        document.getElementById('container').innerHTML = "";
     }
 });
 document.addEventListener("DOMContentLoaded", () => {
