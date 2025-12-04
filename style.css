@@ -132,9 +132,9 @@ img {
 }
 #lawrule {
    position: absolute;
-   transform: translate(11rem,95rem);
+   transform: translate(7rem,97rem);
    color: white;
-   font-weight: 800;
+   font-weight: 900;
    font-size: 1.5rem;
    white-space: nowrap;
 }
@@ -143,10 +143,8 @@ footer {
     text-align: center;
     transform: translate(10rem,98.5rem);
     color: white;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 1.5rem;
     white-space: nowrap;
-    padding: 0;
-    margin: 0;
 }
     
