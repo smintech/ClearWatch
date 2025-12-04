@@ -136,6 +136,7 @@ img {
    color: white;
    font-weight: 800;
    font-size: 1.5rem;
+   white-space: nowrap;
 }
 footer {
     position: absolute;
@@ -144,7 +145,7 @@ footer {
     color: white;
     font-weight: 800;
     font-size: 1.5rem;
-    width: 3rem;
+    white-space: nowrap;
     padding: 0;
     margin: 0;
 }
