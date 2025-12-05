@@ -1,6 +1,7 @@
 body {
+   position: relative;
    text-align: center;
-    min-height: 100vh;
+    min-height: 300vh;
     background-image: url("IMG_3731.png");
     background-size: cover;
     background-position: center;
