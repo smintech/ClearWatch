@@ -210,7 +210,7 @@ body, html {
     background: green;
     backdrop-filter: blur(4px);
     border-radius: 10px;
-    max-width: 20%;
+    max-width: 50%;
     font-weight: 900;
     max-height: auto;
     color: white;
@@ -228,5 +228,6 @@ body, html {
     overflow-y: auto;
     overflow-x: auto;
     text-overflow: ellipsis;
+    font-weight: 900;
 }
     
