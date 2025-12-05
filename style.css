@@ -169,7 +169,7 @@ body, html {
     white-space: nowrap;
 }
 .footer #lawrule {
-    left: 60%;
+    left: -60%;
     text-decoration: none;
     color: white;
 }
