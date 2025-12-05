@@ -87,9 +87,9 @@ const aboutSection = document.getElementById("about-section");
 aboutLink.addEventListener("click", () => {
     if (aboutSection.style.display === "none" || aboutSection.style.display === "") {
         aboutSection.style.display = "block";
-        aboutLink.textContent = "Hide About";
+        aboutLink.textContent = "Close Section";
     } else {
         aboutSection.style.display = "none";
-        aboutLink.textContent = "About";
+        aboutLink.textContent = "About Page(learn more about the page)";
     }
 });
