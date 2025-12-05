@@ -55,7 +55,7 @@ body, html {
    left: 10%;
 }
 .categorywrapper{ 
-   position: relative;
+   position: absolute;
    display: flex;
    flex-direction: colum;
    margin-top: 55%;
@@ -74,6 +74,7 @@ body, html {
     background: white;
     white-space: nowrap;
     padding: 8px;
+    margin: 0;
 }
 .select-options {
     display: none;
