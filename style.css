@@ -160,7 +160,15 @@ body, html {
    margin-top: 20%;
    left: 10%;
 }
-.footer {
+}
+.footer #lawrule {
+    position: flex;
+    margin-top: 80%;
+    left: 80%;
+    text-decoration: none;
+    color: white;
+}
+.footer p {
     position: flex;
     display: flex;
     left: 40%;
@@ -170,12 +178,5 @@ body, html {
     font-weight: 900;
     font-size: 1.5rem;
     white-space: nowrap;
-}
-.footer #lawrule {
-    position: flex;
-    margin-top: 80%;
-    left: 50%;
-    text-decoration: none;
-    color: white;
 }
     
