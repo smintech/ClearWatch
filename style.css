@@ -164,14 +164,20 @@ body, html {
    left: 10%;
 }
 .footer {
-    position: flex;
+    position: fixed;
     display: flex;
+    text-align: center;
+    padding: 10px 0;
     text-decoration: none;
     color: white;
-    margin-top: 80%;
-    transform: translateX(-15%);
+    margin-top: 90%;
+    transform: translateX(-20%);
     font-weight: 900;
     font-size: 1rem;
     white-space: nowrap;
+}
+#lawrule {
+    text-decoration: none;
+    color: white;
 }
     
