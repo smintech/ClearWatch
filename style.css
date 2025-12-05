@@ -58,7 +58,7 @@ body, html {
 .categorywrapper{ 
    position: absolute;
    display: flex;
-   margin-top: 50%;
+   margin-top: 55%;
    left: 10%;
    height: 1.5rem;
    width: 15rem;
@@ -73,7 +73,7 @@ body, html {
 .select-header {
     background: white;
     padding: 8px;
-    left: 10%;
+    left: 0;
 }
 .select-options {
     display: none;
@@ -87,6 +87,7 @@ body, html {
 }
 .category-group {
     padding: 6px;
+    left: 0;
 }
 .category-group .options-group {
     list-style: none;
@@ -116,7 +117,7 @@ body, html {
 #submitbtn {
    position: absolute;
     display: flex;
-    left: 50%;
+    left: 60%;
     margin-top: 38%;
     font-size: 1.5rem;
     font-weight: 900;
@@ -131,8 +132,8 @@ body, html {
     border: none;
     background: transparent;
     width: 100%;
-    margin-top: 55%;
-    left: 10%;
+    margin-top: 57%;
+    left: 12%;
     max-height: 20%;
     overflow-y: auto;
     border-radius: 6px;
