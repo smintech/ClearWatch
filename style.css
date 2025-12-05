@@ -171,7 +171,7 @@ body, html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 70%;
+    margin-top: 68%;
     white-space: nowrap;
     font-weight: 900;
     transform: none !important;
@@ -194,9 +194,10 @@ body, html {
     color: white;
 }
 
-#about {
+#about, #feedback {
     cursor: pointer;
     text-decoration: underline;
+    color: white;
 }
 
 #about-section {
