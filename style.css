@@ -1,7 +1,6 @@
 body {
    position: relative;
    text-align: center;
-    min-height: 300vh;
     background-image: url("IMG_3731.png");
     background-size: cover;
     background-position: center;
@@ -10,6 +9,7 @@ body {
 body, html {
    overflow-x: auto;
    overflow-y: auto;
+   min-height: 400vh;
 }
 .header {
     position: relative;
@@ -43,7 +43,7 @@ body, html {
 .ratel img {
    position: static;
    margin-top: 5rem;
-   width: 100%;
+   width: 100vh;
    height: 10%;
 }
 #report {
