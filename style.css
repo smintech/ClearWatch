@@ -163,9 +163,9 @@ body, html {
 .footer {
     position: flex;
     display: flex;
-    left: 47%;
+    left: 40%;
     color: white;
-    bottom: 0;
+    margin-top: 90%;
     transform: translateX(-50%);
     font-weight: 900;
     font-size: 1.5rem;
@@ -173,6 +173,7 @@ body, html {
 }
 .footer #lawrule {
     position: flex;
+    margin-top: 80%;
     left: 50%;
     text-decoration: none;
     color: white;
