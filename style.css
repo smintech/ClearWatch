@@ -59,7 +59,7 @@ body, html {
    display: flex;
    flex-direction: column;
    margin-top: 55%;
-   left: 7.5%;
+   left: 9%;
    height: 1.5rem;
    width: 18rem;
    background-color: green;
@@ -135,7 +135,7 @@ body, html {
     border: none;
     background: transparent;
     width: 100%;
-    margin-top: 57%;
+    margin-top: 58%;
     left: 13%;
     max-height: 20%;
     overflow-x: auto;
@@ -159,13 +159,12 @@ body, html {
 #lawrule {
     position: absolute;
     display: flex
-    display: block;
-    margin-top: 50%;
+    margin-top: 80%;
     color: white;
     font-weight: 900;
     font-size: 1.5rem;
     text-decoration: none;
-    text-align: center;
+    left: 20%;
     white-space: nowrap;
 }
 footer {
@@ -175,5 +174,6 @@ footer {
     font-weight: 900;
     font-size: 1.5rem;
     white-space: nowrap;
+    transform: translateY(90%);
 }
     
