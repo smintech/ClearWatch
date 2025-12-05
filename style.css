@@ -73,6 +73,7 @@ body, html {
 .select-header {
     background: white;
     padding: 8px;
+    left: 10%;
 }
 .select-options {
     display: none;
@@ -115,7 +116,7 @@ body, html {
 #submitbtn {
     position: absolute;
     display: flex
-    margin-top: 30%;
+    margin-top: 40%;
     left: 40%;
     font-size: 1.5rem;
     font-weight: 900;
@@ -130,7 +131,7 @@ body, html {
     border: none;
     background: transparent;
     width: 100%;
-    margin-top: 35%;
+    margin-top: 50%;
     max-height: 20%;
     overflow-y: auto;
     border-radius: 6px;
@@ -145,7 +146,8 @@ body, html {
 }
 #fileinput { 
    position: absolute;
-   display: flex
+   display: flex;
+   margin-top: 20%;
 }
 #lawrule {
     position: absolute;
