@@ -56,10 +56,10 @@ body, html {
    left: 10%;
 }
 .categorywrapper{ 
-   position: absolute;
+   position: relative;
    display: flex;
    margin-top: 55%;
-   left: 0;
+   left: 10%;
    height: 1.5rem;
    width: 15rem;
    background-color: green;
@@ -74,7 +74,6 @@ body, html {
     background: white;
     white-space: nowrap;
     padding: 8px;
-    left: 10%;
 }
 .select-options {
     display: none;
