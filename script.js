@@ -87,7 +87,7 @@ const aboutSection = document.getElementById("about-section");
 aboutLink.addEventListener("click", () => {
     if (aboutSection.style.display === "none" || aboutSection.style.display === "") {
         aboutSection.style.display = "block";
-        aboutLink.textContent = "Close Section";
+        aboutLink.textContent = "Now Scroll then Close Section With This Button";
     } else {
         aboutSection.style.display = "none";
         aboutLink.textContent = "About Page(learn more about the page)";
