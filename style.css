@@ -57,7 +57,7 @@ body, html {
 .categorywrapper{ 
    position: absolute;
    display: flex;
-   flex-direction: colum;
+   flex-direction: column;
    margin-top: 55%;
    left: 0%;
    height: 1.5rem;
