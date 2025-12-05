@@ -43,9 +43,9 @@ body, html {
 }
 .ratel img {
    position: static;
-   top: 6%;
-   width: 100rem;
-   height: 10rem;
+   margin-top: 5rem;
+   width: 100%;
+   height: 10%;
 }
 #report {
    height: 7rem;
