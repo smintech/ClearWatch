@@ -118,14 +118,15 @@ body, html {
 #submitbtn {
    position: absolute;
     display: flex;
-    left: 60%;
-    margin-top: 38%;
+    left: 80%;
+    margin-top: 37.5%;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
     color: green;
 }
 #container {
+    position: fixed;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -134,7 +135,7 @@ body, html {
     background: transparent;
     width: 100%;
     margin-top: 57%;
-    left: 12%;
+    left: 15%;
     max-height: 20%;
     overflow-y: auto;
     border-radius: 6px;
