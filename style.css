@@ -161,7 +161,7 @@ body, html {
    left: 10%;
 }
 .footer {
-    position: sticky;
+    position: flex;
     display: flex;
     left: 47%;
     color: white;
@@ -172,8 +172,8 @@ body, html {
     white-space: nowrap;
 }
 .footer #lawrule {
-    position: sticky;
-    right: 70%;
+    position: flex;
+    left: 50%;
     text-decoration: none;
     color: white;
 }
