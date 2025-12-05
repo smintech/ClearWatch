@@ -81,3 +81,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     fileInput.addEventListener("change", addMultipleFiles);
 });
+const aboutLink = document.getElementById("about");
+const aboutSection = document.getElementById("about-section");
+
+aboutLink.addEventListener("click", () => {
+    if (aboutSection.style.display === "none" || aboutSection.style.display === "") {
+        aboutSection.style.display = "block";
+        aboutLink.textContent = "Hide About";
+    } else {
+        aboutSection.style.display = "none";
+        aboutLink.textContent = "About";
+    }
+});
