@@ -163,21 +163,15 @@ body, html {
    margin-top: 20%;
    left: 10%;
 }
-}
-#lawrule {
-    position: flex;
-    margin-top: 70%;
-    text-decoration: none;
-    color: white;
-}
-.footer p {
+.footer {
     position: flex;
     display: flex;
+    text-decoration: none;
     color: white;
     margin-top: 80%;
-    transform: translateX(-20%);
+    transform: translateX(-15%);
     font-weight: 900;
-    font-size: 1.5rem;
+    font-size: 1rem;
     white-space: nowrap;
 }
     
