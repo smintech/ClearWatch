@@ -109,8 +109,9 @@ body, html {
    display: none;
 }
 #charcount {
-   position: absolute;
    display: flex;
+   margin-top: 53%;
+   left: 70%;
    color: green;
    font-weight: bold;
    font-size: 0.5rem;
