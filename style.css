@@ -211,12 +211,13 @@ body, html {
     background: green;
     backdrop-filter: blur(4px);
     border-radius: 10px;
-    width: 90%;
+    max-width: auto;
     font-weight: 900;
-    max-width: 600px;
+    max-height: auto;
     color: white;
     margin-left: auto;
     margin-right: auto;
     text-align: center !important;
     text-decoration: none;
+    white-space: normal;
 }
