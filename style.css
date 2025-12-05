@@ -208,7 +208,7 @@ body, html {
     background: green;
     backdrop-filter: blur(4px);
     border-radius: 10px;
-    max-width: 50%;
+    max-width: 70%;
     font-weight: 900;
     max-height: auto;
     color: white;
