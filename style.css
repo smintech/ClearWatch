@@ -41,11 +41,11 @@ body, html {
    left: 3.5rem;
    white-space: nowrap;
 }
-.ratel {
+#bodyparent .ratel {
    position: static;
-   margin-top: 4rem;
+   margin-top: 2rem;
    width: 100vh;
-   max-height: 5%;
+   max-height: 3rem;
 }
 #report {
    height: 7rem;
