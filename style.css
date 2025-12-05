@@ -57,10 +57,11 @@ body, html {
 .categorywrapper{ 
    position: relative;
    display: flex;
+   flex-direction: colum;
    margin-top: 55%;
    left: 0%;
    height: 1.5rem;
-   width: 18rem;
+   width: 10rem;
    background-color: green;
    color: green;
    font-weight: 700;
