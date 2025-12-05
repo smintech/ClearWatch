@@ -160,7 +160,7 @@ body, html {
 .footer {
     position: absolute;
     display: flex;
-    left: 48%;
+    left: 45%;
     color: white;
     bottom: 0;
     transform: translateX(-50%);
