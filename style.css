@@ -61,7 +61,7 @@ body, html {
    position: relative;
    display: flex;
    flex-direction: column;
-   margin-top: 35vh !important;
+   margin-top: 38vh !important;
    left: 10vw;
    height: 1.5rem;
    width: 50vw;
@@ -116,7 +116,7 @@ body, html {
 #charcount {
    position: absolute;
    display: flex;
-   margin-top: 36vh;
+   margin-top: 35vh;
    right: 45vw;
    color: green;
    font-weight: bold;
@@ -126,7 +126,7 @@ body, html {
    position: absolute;
     display: flex;
     left: 63vw;
-    margin-top: 35vh;
+    margin-top: 30vh;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
@@ -167,7 +167,7 @@ body, html {
     width: 100vw;
     text-align: center !important;
     display: flex;
-    margin-top: 80vh !important;
+    margin-top: 70vh !important;
     flex-direction: column;
     align-items: center;
     justify-content: center;
