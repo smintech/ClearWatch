@@ -25,7 +25,7 @@ body, html {
 .moveup {
    position: relative;
    display: flex;
-   margin-top: 30vh;
+   margin-top: 20vh;
    z-index: 1;
    left: 0;
 }
@@ -49,7 +49,7 @@ body, html {
    position: absolute;
    display: flex;
    height: 7rem;
-   width: 30vw;
+   width: 50vw;
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -58,13 +58,13 @@ body, html {
    left: 10vw;
 }
 .categorywrapper{ 
-   position: relative;
+   position: absolute;
    display: flex;
    flex-direction: column;
    margin-top: 40vh !important;
-   left: 5vw;
+   right: 5vw;
    height: 1.5rem;
-   width: 18rem;
+   width: 50vw;
    background-color: green;
    color: green;
    font-weight: 700;
@@ -115,10 +115,10 @@ body, html {
    display: none;
 }
 #charcount {
-   position: relative;
+   position: absolute;
    display: flex;
-   margin-top: 40vh;
-   left: 70vw;
+   margin-top: 45vh;
+   right: 40vw;
    color: green;
    font-weight: bold;
    font-size: 0.5rem;
