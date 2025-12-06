@@ -25,7 +25,7 @@ body, html {
 .moveup {
    position: relative;
    display: flex;
-   margin-top: 40vh;
+   margin-top: 30vh;
    z-index: 1;
    left: 0;
 }
@@ -49,7 +49,7 @@ body, html {
    position: absolute;
    display: flex;
    height: 7rem;
-   width: 17vw;
+   width: 30vw;
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -61,8 +61,8 @@ body, html {
    position: relative;
    display: flex;
    flex-direction: column;
-   margin-top: 50vh !important;
-   left: 10.5vw;
+   margin-top: 40vh !important;
+   left: 5vw;
    height: 1.5rem;
    width: 18rem;
    background-color: green;
@@ -117,7 +117,7 @@ body, html {
 #charcount {
    position: relative;
    display: flex;
-   margin-top: 45vh;
+   margin-top: 40vh;
    left: 70vw;
    color: green;
    font-weight: bold;
