@@ -54,7 +54,7 @@ body, html {
    color: green;
    background-color: white;
    z-index: 0;
-   margin-top: 25vh;
+   margin-top: 23vh;
    left: 10vw;
 }
 .categorywrapper{ 
@@ -126,8 +126,8 @@ body, html {
 #submitbtn {
    position: absolute;
     display: flex;
-    left: 70vw;
-    margin-top: 30vh;
+    left: 65vw;
+    margin-top: 32vh;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
@@ -142,7 +142,7 @@ body, html {
     border: none;
     background: transparent;
     width: 100vw;
-    margin-top: 60vh !important;
+    margin-top: 50vh !important;
     left: 13vw;
     max-height: 20vh;
     overflow-x: auto;
@@ -160,15 +160,15 @@ body, html {
 #fileinput { 
    position: absolute;
    display: flex;
-   margin-top: 30vh;
+   margin-top: 22vh;
    left: 10vw;
 }
 .footer {
     position: relative;
-    width: 100%;
+    width: 100vw;
     text-align: center !important;
     display: flex;
-    margin-top: 68% !important;
+    margin-top: 68vh !important;
     flex-direction: column;
     align-items: center;
     justify-content: center;
